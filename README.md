@@ -1,6 +1,7 @@
 # javascript_util
 ## util_drawLine.js
 how to use:
+
 	let canvas = document.getElementById("canvas");
 	//设置canvas宽度
 	canvas.width = 1000;
